@@ -92,7 +92,7 @@ saya ${botname}, senang berkenalan Dengan anda.. 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu AZUKA-BOTZ :*
+*📚 List-Menu GojoBotzMD :*
 
 ╭─❒ 「 Bot Info 」 
 ꗄ➺ ${prefix}owner
@@ -788,6 +788,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ꗄ➺ Rashid
 ꗄ➺ ZeeoneOfc
 ꗄ➺ AkiraYT
+ꗄ➺ Humanz
 ꗄ➺ Penyedia Module
 ╰❒ And All Support
     `
@@ -1453,6 +1454,7 @@ exports.tqto = () =>{
 ꗄ➺ Rashid
 ꗄ➺ ZeeoneOfc
 ꗄ➺ AkiraYT
+ꗄ➺ Humanz
 ꗄ➺ Penyedia Module
 ╰❒ And All Support
 `
